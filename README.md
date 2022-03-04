@@ -30,3 +30,4 @@ Data collected from biopsy results (positive or negative) from cervical cancer s
 ## Presentations and projects
 * [Project Write-up](https://github.com/lshpaner/cervical_cancer_python/blob/main/cervical_cancer.pdf)
 * [Python Notebook](https://github.com/lshpaner/cervical_cancer_python/blob/main/cervical_cancer.ipynb)
+* [Video Presentation - Youtube](https://youtu.be/_XFACAl2QJU)
