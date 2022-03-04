@@ -27,6 +27,11 @@ Data collected from biopsy results (positive or negative) from cervical cancer s
 ## ROC Comparison for Models
 ![image](https://github.com/lshpaner/cervical_cancer_python/blob/main/images/roc_cervdat.png)
 
+## Original Data
+* [UCI Machine Learning Repository](https://archive.ics.uci.edu/ml/datasets/Cervical+cancer+%28Risk+Factors%29)  
+
+* [Dataset](https://archive.ics.uci.edu/ml/machine-learning-databases/00383/risk_factors_cervical_cancer.csv)
+
 ## Presentations and projects
 * [Project Write-up](https://github.com/lshpaner/cervical_cancer_python/blob/main/cervical_cancer.pdf)
 * [Python Notebook](https://github.com/lshpaner/cervical_cancer_python/blob/main/cervical_cancer.ipynb)
